@@ -159,6 +159,16 @@ class Jobs extends Component {
   componentDidMount() {
     ScrollReveal().reveal(this.jobs, srConfig());
   }
+  sortPlacesWorked = (workPlaceA, workPlaceB) => {
+    if (workPlaceA.node.frontmatter.company < workPlaceB.node.frontmatter.company) {
+      return -1;
+    }
+    if (workPlaceA.node.frontmatter.company > workPlaceB.node.frontmatter.company) {
+      return 1;
+    }
+    // a must be equal to b
+    return 0;
+  };
 
   isActive = id => this.state.activeTabId === id;
 
@@ -167,14 +177,13 @@ class Jobs extends Component {
   render() {
     const { activeTabId } = this.state;
     const { data } = this.props;
-
     return (
       <JobsContainer id="jobs" innerRef={el => (this.jobs = el)}>
         <H3>Where I've Worked</H3>
         <TabsContainer>
           <Tabs role="tablist">
             {data &&
-              data.map(({ node }, i) => (
+              data.sort(this.sortPlacesWorked).map(({ node }, i) => (
                 <Tab
                   key={i}
                   isActive={this.isActive(i)}
