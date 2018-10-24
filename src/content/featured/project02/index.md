@@ -1,15 +1,17 @@
 ---
-date: '2018-01-01'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+date: '2017-06-01'
+title: 'Sample Auth Server'
+cover: './idsvr.png'
+github: 'https://github.com/bchiang7/v3'
+external: 'https://bchiang7.github.io/v3/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Security
+  - oidc
+  - oauth2
+  - C#
+  - Mongo
+  - .Net Core
 ---
 
-A minimal, dark theme for VS Code, Sublime Text, Atom, iTerm, and more published to [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme). Has almost 20,000 downloads on Visual Studio Marketplace.
+An Implentation of an oidc server in C# ASP .Net Core 2.0. with Mongo Data Store. Features include 2fa, Registration,
+Lockout ...

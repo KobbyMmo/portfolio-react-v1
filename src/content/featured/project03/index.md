@@ -1,14 +1,17 @@
 ---
-date: '2017-06-01'
-title: 'Personal Website V3'
-cover: './v3.png'
-github: 'https://github.com/bchiang7/v3'
-external: 'https://bchiang7.github.io/v3/'
+date: '2018-04-01'
+title: 'SchoolDesk'
+cover: './schooldesk.png'
+github: ''
+external: 'https://schooldesk.cc/'
 tech:
-  - SCSS
-  - JavaScript
-  - Jekyll
-  - Github Pages
+  - ReactJS
+  - Electron
+  - ReactNative
+  - Python
+  - GCP
+  - MySQL
+  - Microservices
 ---
 
-Third iteration of my personal website built with Jekyll and hosted on Github Pages. Used by several people as a template for their own personal sites and has gained over 40 stars on Github.
+A multi - tenant school management platform, currently operating in Ghana and Dr. Congo, SchoolDesk provides a suite of applications which includes desktop and mobile applications for almost all stakeholders of a school, including an offline encyclopedia for students

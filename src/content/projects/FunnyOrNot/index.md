@@ -1,16 +1,15 @@
 ---
-date: '2018-01-01'
+date: '2017-12-01'
 title: 'Funny Or Not'
-cover: './funnyornot.png'
+image: ''
 github: ''
-external: 'https://play.google.com/store/apps/details?id=com.funnyornot/'
+external: 'https://play.google.com/store/apps/details?id=com.funnyornot '
 tech:
+  - React Native
   - JS
-  - ReactNative
-  - Python
-  - Flask
-  - MySQL
-  - Google Cloud Platform
+  - Objective C
+  - Java
+show: 'true'
 ---
 
 A joke sharing social media application, to make you laugh while you stare at your phone.

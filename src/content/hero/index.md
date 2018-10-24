@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Obed Amoasi'
+subtitle: 'I build things with love.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in developing (and occasionally designing) exceptional, high-quality websites and applications. Currently working at [Upstatement](https://www.upstatement.com/) as an Engineer, ask me about it!
+I'm a software engineer based in Accra, Ghana specializing in developing well-designed, high-quality applications. Currently working with [Bee & Bloom](https://www.beeandbloom.digital/) as a consultant, ask me about it!

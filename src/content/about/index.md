@@ -7,15 +7,20 @@ skills:
   - HTML & CSS
   - React
   - Gatsby
-  - Ember
-  - Jekyll
-  - Craft
-  - Wordpress
-  - Timber
+  - Angular
+  - C#
+  - MongoDB
+  - NodeJs
+  - Azure
+  - AWS
+  - .Net
+  - SQL
+  - Microservices
 ---
 
-Hey there! I'm a software engineer who enjoys working at the intersection of engineering and design. I build exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces while also being scalable and efficient behind the scenes.
+I am a customer oriented and organised software programmer, with a broad range of
+technical skills. I am meticulous and quick in assimilating chunks of complex information relevant to a problem; decisive and efficient with the materials at my disposal.
 
-I graduated from [Northeastern University](https://www.ccis.northeastern.edu/) with my bachelor's in 2018, and for the past 5+ years, I've been honing my skills in web development. I enjoy constantly learning and improving my skills with the technologies that keep evolving in this ever-changing field!
+I graduated from [Kwame Nkrumah University Of Science and Technology](https://www.knust.edu.gh/) with a bachelor's in Computer Engineering, and for the past 5+ years, I've been among diverse teams building and learning cool stuff.
 
 Here's a few things I'm experienced with:
