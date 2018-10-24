@@ -2,8 +2,8 @@
 date: '2017-06-01'
 title: 'Sample Auth Server'
 cover: './idsvr.png'
-github: 'https://github.com/bchiang7/v3'
-external: 'https://bchiang7.github.io/v3/'
+github: 'https://github.com/KobbyMmo/IdentityServer4-Mongo-ASP.NET-Identity'
+external: ''
 tech:
   - Security
   - oidc

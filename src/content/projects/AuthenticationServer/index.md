@@ -2,8 +2,8 @@
 date: '2017-12-01'
 title: 'Auth Server'
 image: ''
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+github: 'https://github.com/KobbyMmo/IdentityServer4-Mongo-ASP.NET-Identity'
+external: ''
 tech:
   - Oidc
   - OAuth2

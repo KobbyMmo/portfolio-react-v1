@@ -4,7 +4,7 @@ title: 'Senior Software Engineer'
 company: 'iTagTip'
 location: 'Calgary University'
 range: 'Sep 2017 - Aug 2018'
-url: 'https://web.itagtip.com/'
+url: 'https://www.itagtip.com/'
 ---
 
 - Worked with a team of three developers to build th backend of a realtime geo-location application.
