@@ -3,7 +3,7 @@ date: '2013-06-21'
 title: 'On-Site IT Support Enginner'
 company: 'Agenda Commercial Ltd'
 location: 'Accra, Akbelemkpe'
-range: 'June 2013 - Present'
+range: 'June 2013 - June 2017'
 url: 'https://www.agendagh.com/'
 ---
 

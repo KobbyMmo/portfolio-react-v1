@@ -3,7 +3,7 @@ date: '2015-12-21'
 title: 'Engineer, Marketer and Support'
 company: 'SchoolDesk'
 location: 'Kumasi, Ghana'
-range: 'May 2017 - Present'
+range: 'July 2017 - October 2018'
 url: 'https://www.schooldesk.cc/'
 ---
 

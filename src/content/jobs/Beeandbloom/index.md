@@ -3,7 +3,7 @@ date: '2017-12-21'
 title: 'IT Consultant'
 company: 'Bee & Bloom'
 location: 'Tse Addo, Accra- Ghana'
-range: 'April - Present'
+range: 'August 2018 - Present'
 url: 'https://www.beeandbloom.digital/'
 ---
 

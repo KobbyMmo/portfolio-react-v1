@@ -3,7 +3,7 @@ date: '2018-05-14'
 title: 'Robotics Trainer/Coach'
 company: 'GRAF'
 location: 'Accra, Ghana'
-range: 'June 2013 - May 2018'
+range: 'June 2014 - June 2018'
 url: 'https://foundation.ghanarobotics.org'
 ---
 
