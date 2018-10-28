@@ -67,6 +67,12 @@ class Loader extends Component {
         strokeDashoffset: [anime.setDashoffset, 0],
       })
       .add({
+        targets: '#logo #path',
+        duration: 50,
+        easing: 'easeInOutQuart',
+        opacity: 0,
+      })
+      .add({
         targets: '#logo #M',
         duration: 800,
         easing: 'easeInOutQuart',
@@ -111,6 +117,7 @@ class Loader extends Component {
                 />
               </g>
               <path
+                id="path"
                 stroke="#64FFDA"
                 strokeWidth="5"
                 strokeLinecap="round"
