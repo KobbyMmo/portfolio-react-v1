@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Obed Amoasi | Software Engineer',
   siteDescription:
-    'software engineer based in Accra, Ghana who specializes in developing well-designed, high-quality applications.',
+    'Software Engineer based in Accra, Ghana who specializes in developing well-designed, high-quality applications.',
   siteKeywords:
-    'Obed Amoasi, Amoasi, Imbro, bchiang7, software engineer, front-end engineer, web developer, javascript, Ghana, freelance,remote',
+    'Obed Amoasi, Amoasi, Imbro, software engineer, front-end engineer, web developer, javascript, Ghana, freelance,remote,angular,react,ghana',
   siteUrl: 'https://obedamoasi.com',
   siteLanguage: 'en_US',
   siteImage: 'https://obedamoasi.com/og.png',
