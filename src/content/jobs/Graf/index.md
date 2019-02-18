@@ -1,9 +1,9 @@
 ---
 date: '2018-05-14'
-title: 'Robotics Trainer/Coach'
+title: 'Volunteer Robotics Trainer/Coach (Weekends Only)'
 company: 'GRAF'
 location: 'Accra, Ghana'
-range: 'June 2014 - June 2018'
+range: 'June 2014 - Present'
 url: 'https://foundation.ghanarobotics.org'
 ---
 

@@ -3,7 +3,7 @@ date: '2017-04-01'
 title: 'Full Stack Developer'
 company: 'ASQII'
 location: 'Kumasi'
-range: 'May - Dec 2016'
+range: 'May 2016 - JUN 2017'
 url: ''
 ---
 

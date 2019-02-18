@@ -1,6 +1,6 @@
 ---
 date: '2013-06-21'
-title: 'On-Site IT Support Enginner'
+title: 'Part-time On-Site IT Support Engineer'
 company: 'Agenda Commercial Ltd'
 location: 'Accra, Akbelemkpe'
 range: 'June 2013 - June 2017'
