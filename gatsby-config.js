@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'brittany-chiang-v4',
-        short_name: 'v4',
+        name: 'obed_amoasi',
+        short_name: 'OM',
         start_url: '/',
         background_color: '#020c1b',
         theme_color: '#0a192f',
